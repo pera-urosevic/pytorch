@@ -18,9 +18,6 @@ def eval_model(model):
     x_test = data_load_x_test()
     y_test = data_load_y_test()
 
-    model = torch.load("./~model/model.pt")
-    model.eval()
-
     train_accuracy = model_accuracy(model, x_train, y_train)
     test_accuracy = model_accuracy(model, x_test, y_test)
 
