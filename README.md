@@ -23,3 +23,6 @@ simpsons-color
 
 simpsons-mono
 ![simpsons-mono](readme/figure_03-cnn-simpsons-mono.png)
+
+# 04 - Transfer Learning - ResNet
+![transfer-learning](readme/figure_04-transfer-learning.png)
