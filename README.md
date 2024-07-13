@@ -26,3 +26,6 @@ simpsons-mono
 
 # 04 - Transfer Learning - ResNet
 ![transfer-learning](readme/figure_04-transfer-learning.png)
+
+# 05 - MLFlow
+![mlflow](readme/figure_05-mlflow.png)
