@@ -29,3 +29,12 @@ simpsons-mono
 
 # 05 - MLFlow
 ![mlflow](readme/figure_05-mlflow.png)
+
+# 06 - ASR
+[audio](readme/figure_06-audio.ogg)
+
+
+![classification](readme/figure_06-classification.png)
+
+
+"i'm fully connected i can see everything"
